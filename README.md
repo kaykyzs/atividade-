@@ -7,3 +7,5 @@ Um novo teste
 Alteração feita no branch 
 
 Teste para de marge
+
+Limpar o professor 
